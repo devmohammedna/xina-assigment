@@ -10,6 +10,7 @@
 - Drag nodes from the sidebar section and drop it inside the workspace area.
 - Download button: to save the created structure as a JSON file.
 - Uplode button: to load any of the download file you created before.
+- When you click on any node at your structure so you can change the name attribute of this node
 
 
 
