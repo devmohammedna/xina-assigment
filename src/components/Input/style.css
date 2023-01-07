@@ -1,0 +1,20 @@
+.wrapper-input {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 400;
+  color: #737175;
+  margin-bottom: 5px;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 16px;
+  max-width: 656px;
+  outline: none;
+}
